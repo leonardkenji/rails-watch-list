@@ -60,3 +60,11 @@ group :development do
 end
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# Uploaded by me
+gem "sprockets-rails"
+gem "sassc-rails"
+gem "bootstrap", "~> 5.3"
+gem "autoprefixer-rails"
+gem "font-awesome-sass", "~> 6.1"
+gem "simple_form"
